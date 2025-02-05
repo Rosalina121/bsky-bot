@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@atproto/api": "^0.13.32",
+    "cron": "^3.5.0",
+    "process": "^0.11.10"
+  },
+  "scripts": {
+    "start": "bun index.ts"
+  }
+}
+
